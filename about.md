@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "生活小记"
+description: "me"
 header-img: "img/green.jpg"
 ---
 
