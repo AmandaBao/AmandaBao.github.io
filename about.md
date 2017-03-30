@@ -27,7 +27,7 @@ My name is Jiayi Bao, and I am a 3rd year Math major student at the University o
 
 ###Contacts
 
-- [Email](jiayibao@alumni.ubc.ca)
+- [Email] jiayibao@alumni.ubc.ca
 
 
 
