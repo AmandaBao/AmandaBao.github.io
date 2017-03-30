@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 杂事小记0330
-date: 2015-3-02
+date: 2017-3-30
 categories: blog
 tags: [杂记]
 description: 琐事整理。
